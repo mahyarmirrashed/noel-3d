@@ -1,0 +1,21 @@
+[project]
+name = "noel-3d"
+version = "0.0.0"
+description = "Create 3D animations using programmable LED lights"
+authors = [
+  { name = "Mahyar Mirrashed", email = "mahyar.mirrashed@ptxtrimble.com" },
+]
+maintainers = [
+  { name = "Mahyar Mirrashed", email = "mahyar.mirrashed@ptxtrimble.com" },
+]
+readme = "README.md"
+license = { text = "Proprietary" }
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+  "License :: Other/Proprietary License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+]
