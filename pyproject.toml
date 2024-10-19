@@ -1,7 +1,7 @@
 [project]
 name = "noel-3d"
 version = "0.0.0"
-description = "Create 3D animations using programmable LED lights"
+description = "Run 3D animations on objects using programmable holiday lights"
 authors = [
   { name = "Mahyar Mirrashed", email = "mahyar.mirrashed@ptxtrimble.com" },
 ]
