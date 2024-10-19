@@ -29,3 +29,13 @@ target-version = "py310"
 
 [tool.ruff.lint]
 select = ["ALL"]
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
+line_length = 88
+multi_line_output = 3
+include_trailing_comma = true
+combine_as_imports = true
